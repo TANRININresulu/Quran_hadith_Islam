@@ -1,0 +1,153 @@
+.basmalah {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: italic;
+	color: #003366;
+	background-position: center;
+	text-align: center;
+	vertical-align:text-top;
+}
+.basmalahr{
+	height:1;
+	width:50%;
+	text-align:center;
+	color:#003399;
+	margin: auto;
+}
+body {
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	color: #006633;
+	text-align: center;
+	margin-top: 4px;
+	margin-bottom: 6pt;
+}
+h2 {
+	font-size: 16pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h3 {
+	font-size: 14pt;
+}
+
+.articleLinks {
+	font-family: "Book Antiqua", "Times New Roman", Times, Georgia, serif;
+	color: #003300;
+	font-size: 12pt;
+	margin-bottom: 5px;
+	padding-left:10px;
+}
+.happhr{
+ width:100%; 
+ height:1px;
+ color:#999;
+ background-color:#999;
+ margin-bottom:5px;
+}
+table { 
+    border-spacing: 0;
+    border-collapse: collapse;
+	border:0;
+	width:100%;
+}
+td { 
+	padding:0;
+	vertical-align:top;
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #660000;
+	text-align: center;
+	vertical-align: middle;
+}
+.contact {
+	font-family: "Book Antiqua", "Times New Roman", Times, Georgia, serif;
+	font-size: 10pt;
+	font-style: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.happiness {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #990033;
+	background-position: center;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom:0px;
+}
+.linkbar {
+	background-color: #003399;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.translate {
+	text-align: center;
+	vertical-align: text-top;
+}
+.sectionTitle {
+	text-align: center;
+	vertical-align: middle;
+	background-position: center center;
+}
+.sectionverse {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: normal;
+	color: #003366;
+	font-weight: bold;
+}
+.sectionSubtitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #000000;
+	font-weight: bold;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	color: #006633;
+	vertical-align: middle;
+	margin-top: 15px;
+}
+ul {
+
+}
+.text {
+	font-family: "Book Antiqua", "Times New Roman", Times, Georgia, serif;
+	color: #003300;
+	font-size: 12pt;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+}
+.modified {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-size: 10pt;
+	margin-bottom: 0.5em;
+	background-color: #FDFAEE;
+	font-weight: normal;
+	font-style: italic;
+	text-indent: 5pt;
+
+}
+.link10 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	padding: 0pt;
+	margin-top: 0pt;
+	margin-right: 0pt;
+	margin-bottom: 5pt;
+	margin-left: 0pt;
+	vertical-align: middle;
+}
+.hrgray50{
+ width:50%; 
+ height:1px;
+ color:#999;
+ background-color:#999;
+}

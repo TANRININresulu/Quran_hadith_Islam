@@ -1,0 +1,28 @@
+body {
+padding: 9.5px;
+  -webkit-overflow-scrolling: touch;
+} /* for ios scrolling issues */
+.sitesec {
+	background-color:#4864A0;
+}
+.dropdown-toggle:hover {
+	color: #003399;
+	background-color: #CCCCCC;
+}
+.dropdown-menu>li>a{
+	color:#999;
+}
+.nav-header{
+	color:#999;
+}
+.menuTitle{
+	color:#ffffff;
+}
+.navbar{ 
+  background-color: #003399;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin-bottom: 0px;
+}
+li.nav-header > a{
+  padding-left:0px;
+}
