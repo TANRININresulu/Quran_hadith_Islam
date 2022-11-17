@@ -1,3 +1,5 @@
+9:128 and 9:129 are added to Quran by Satan! They are not from THE GOD!
+
 # Quran-Hadith-Islam
 
 After more than 12 years of computerized research of Quran, PHYSICAL EVIDENCE was discovered proving that Quran is indeed the infallible word of ALLAH.
