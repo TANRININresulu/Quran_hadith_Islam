@@ -2,7 +2,7 @@ in the name of allah the gracious the compassionate
 
 9:128 and 9:129 are added to quran by satan! they are not from the god!
 
-# Quran-Hadith-Islam
+# quran hadith islam
 
 after more than 12 years of computerized research of quran, physical evidence was discovered proving that quran is indeed the infallible word of god.
 
