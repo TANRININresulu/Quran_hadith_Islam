@@ -1,6 +1,6 @@
 in the name of allah the gracious the compassionate
 
-9:128 and 9:129 are added to Quran by Satan! They are not from THE GOD!
+9:128 and 9:129 are added to quran by satan! they are not from the god!
 
 # Quran-Hadith-Islam
 
