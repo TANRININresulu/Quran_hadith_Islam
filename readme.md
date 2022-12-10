@@ -1,8 +1,8 @@
-in the name of allah the gracious the compassionate
+In the Name of ALLAH THE GRACIOUS THE COMPASSIONATE!
 
-9:128 and 129 are from THE GOD!
+9:128 and 129 are from satan! NOT FROM THE GOD!
 
-# quran hadith islam
+# Quran hadith Islam
 
 after more than 12 years of computerized research of quran, physical evidence was discovered proving that quran is indeed the infallible word of god.
 
