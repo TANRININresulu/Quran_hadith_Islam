@@ -12,6 +12,6 @@ this finding contradicts the beliefs of muslim masses everywhere. as it turned o
 
 since the recognition of hadith & sunna as satanic innovations is supported by physical evidence, all freethinking people will accept the findings reported in this book. for such people the results include a totally new sense of salvation and full awareness that the muslim masses have fallen victim to satans schemes.
 
-rashad khalifa
+rashad khalifa AbdURRAHMAN ayyıldız
 
 august 19, 1982
